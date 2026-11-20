@@ -1,41 +1,32 @@
-FINDINGS 1 — Monthly spending trend
-What we can conclude:
-•	Spending increased steadily from May to September.
-•	September recorded the highest monthly spending at ₹28.98K.
-•	Spending declined in October to ₹21.50K, approximately 25.8% below September.
-Business implication: Mitron Bank could investigate the drivers behind the September peak and the October decline to determine whether spending is seasonal, event-driven, or influenced by customer behaviour.
+Problem Statement
+Mitron Bank, a financial institution looking to expand its credit card business, aims to understand its customers' demographics, spending behaviour, income profiles, and payment preferences. The objective is to identify promising customer segments, uncover spending patterns, and generate actionable insights to support targeted credit card acquisition and marketing strategies. Using customer and transaction data, this project analyses spending across age groups, occupations, cities, payment modes, and monthly trends to help Mitron Bank make data-driven decisions for its credit card expansion strategy.
 
-FINDINGS 2 — Spending by payment mode
-From your payment type chart, the spending order appears to be:
-1.	Credit Card — highest
-2.	UPI — second
-3.	Debit Card — third
-4.	Net Banking — lowest
-Business implication: Credit card spending behaviour is already familiar among the sampled customers, which may give Mitron an opportunity to position its new card around rewards, convenience and benefits that encourage customers to consolidate more of their spending on its card.
-Interview explanation
-I further explored spending by payment mode using the Age Group filter. I observed that customers aged 25–34, 35–45, and 45+ contributed substantially to credit-card spending. This helped me identify potential customer segments that Mitron Bank could prioritize for its credit-card acquisition and marketing strategy.
+## Key Findings & Insights
 
-FINDINGS 3 — City-level spending differences
-What we can conclude:
-•	Mumbai has the highest spending value among the five cities.
-•	Delhi NCR is the second highest.
-•	Chennai has the lowest spending value.
-Business implication: Mumbai and Delhi NCR may be promising markets for an initial credit-card launch or targeted campaigns, while Chennai could require further investigation into customer needs, spending patterns or product positioning.
+### 1. Monthly Spending Trends
+- Spending increased steadily from May to September, peaking at ₹28.98K.
+- October spending declined by 25.8% to ₹21.50K compared with September.
 
-FINDINGS 4 — Occupation Analysis (Credit Card Segment)
-Observation:
-•	Salaried IT Employees recorded the highest ASU and AIU among the occupations in your filtered analysis.
-•	Freelancers recorded the lowest ASU and AIU.
-Business Insight: Salaried IT employees appear to be a promising segment for Mitron Bank's credit-card offering, as they demonstrate the highest average spending and average income among the occupations analyzed. Freelancers show comparatively lower values for both metrics.
+**Insight:** Understanding the factors behind peak and declining spending periods could help the bank plan targeted campaigns and improve customer engagement.
 
-FINDINGS 5 — Spending vs. Income by Age Group (Credit Card Segment)
-What we can conclude:
-•	Customers aged 25–34 and 35–45 have average credit-card spending (ASU) higher than their average income (AIU) in your analysis.
-•	Customers aged 21–24 and 45+ have average income (AIU) higher than their average credit-card spending (ASU).
-•	The spending-to-income pattern differs significantly across age groups when Credit Card transactions are isolated.
-Business implication:
-•	The 25–45 age groups could be promising target segments for Mitron Bank's credit-card acquisition strategy, given their higher average spending relative to the income measure shown.
-•	The 21–24 and 45+ age groups may have different spending behavior and could respond better to tailored card benefits, spending incentives, and customer acquisition strategies.
+### 2. Spending by Payment Mode
+- Credit Card recorded the highest spending, followed by UPI, Debit Card, and Net Banking.
 
+**Insight:** Existing credit card spending behaviour presents an opportunity to attract customers through rewards, cashback, and personalized card benefits.
 
+### 3. City-Level Spending Patterns
+- Mumbai recorded the highest value, followed by Delhi NCR, while Chennai recorded the lowest.
 
+**Insight:** City-specific marketing strategies could help prioritize potential markets and tailor credit card campaigns according to customer spending patterns.
+
+### 4. Occupation-Based Analysis
+- Salaried IT employees recorded the highest Average Spend per User (ASU) and Average Income per User (AIU).
+- Freelancers recorded the lowest values for both metrics.
+
+**Insight:** Salaried IT employees could represent a promising customer segment for targeted credit card acquisition.
+
+### 5. Spending vs. Income by Age Group
+- Customers aged 25–34 and 35–45 recorded higher average credit card spending relative to average income.
+- Customers aged 21–24 and 45+ showed higher average income relative to average credit card spending.
+
+**Insight:** Age-based segmentation could help Mitron Bank develop tailored acquisition strategies, rewards, and card benefits for different customer groups.
